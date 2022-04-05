@@ -71,14 +71,14 @@ src
 │       urls.js
 │       utils.js
 │
-├───images
-│       1.PNG
-│       2.PNG
-│       3.PNG
-│       4.PNG
-│       5.PNG
-│       6.PNG
-│       7.PNG
+├───screenshots
+│       1.JPG
+│       2.JPG
+│       3.JPG
+│       4.JPG
+│       5.JPG
+│       6.JPG
+│       7.JPG
 │
 ├───reducers
 │       auth.js
